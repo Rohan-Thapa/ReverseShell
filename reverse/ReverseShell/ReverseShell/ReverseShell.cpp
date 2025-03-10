@@ -1,4 +1,5 @@
 // ReverseShell Self Practice by Rohan Thapa. | Motive: Testing Coding Skill and imporving Reversing Skills. | Also looking at how is assembly for reverse shell.
+// HandCrafted by Rohan Thapa on 13 May, 2024
 #include <WinSock2.h>
 #include <Windows.h>
 #include <WS2tcpip.h>
